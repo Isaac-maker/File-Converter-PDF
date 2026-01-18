@@ -86,7 +86,6 @@ Independent developer focused on practical, client-side web tools.
 
 🔗 GitHub: https://github.com/isaac-maker
 
-🌐 Projects: https://isaac-maker.github.io/
 
 ## 📜 License
 
